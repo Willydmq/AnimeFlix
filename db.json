@@ -1,0 +1,154 @@
+{
+  "categorias": [
+    {
+      "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore temporibus nemo repellendus, dolorem nostrum placeat beatae. Nisi deleniti tempore vitae.",
+      "color": "#005077",
+      "id": "Isekai"
+    },
+    {
+      "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore temporibus nemo repellendus, dolorem nostrum placeat beatae. Nisi deleniti tempore vitae.",
+      "color": "#6bd1ff",
+      "id": "Comedia"
+    },
+    {
+      "id": "Terror",
+      "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore temporibus nemo repellendus, dolorem nostrum placeat beatae. Nisi deleniti tempore vitae.",
+      "color": "#f0972d"
+    },
+    {
+      "id": "Deportes",
+      "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore temporibus nemo repellendus, dolorem nostrum placeat beatae. Nisi deleniti tempore vitae.",
+      "color": "#f00036"
+    }
+  ],
+  "animes": [
+    {
+      "title": "Isekai Ojisan",
+      "video": "https://s1.secunduscdn.xyz/prime/IsekaiOjisan/Isekai%20Ojisan%20-%2001.mp4",
+      "categoria": "Isekai",
+      "img": "https://wallpapercave.com/wp/wp11690924.jpg",
+      "disc": "Otoño de 2017. El sobrino, Takafumi, acudió al hospital para visitar a su tío, quien acaba de despertar de un coma de diecisiete años. Sin embargo, parece que ha perdido la razón, pues asegura que estuvo en otro mundo llamado “Gran Bahamar” durante todo este tiempo, e incluso parece hablar un extraño lenguaje. Pero todo cambia cuando, su tío, un humano común, le muestra que aprendió a usar la magia en el otro mundo. Así, cuando Takafumi se da cuenta de que la magia que usa su tío es completamente real, le propone que use sus habilidades para convertirse en un YouTuber exitoso. Ahora cuidando de él, Takafumi y su tío comienzan a involucrarse en la vida del streaming, mientras su tío le cuenta de vez en cuando sobre su vida en el otro mundo.",
+      "id": "1"
+    },
+    {
+      "title": "Tsuki ga Michibiku Isekai Douchuu",
+      "video": "https://s1.secunduscdn.xyz/prime/Tsukimichi/Tsuki%20Ga%20Michibiku%20Isekai%20Douchuu%20-%2001.mp4",
+      "categoria": "Isekai",
+      "img": "https://blog.serenatamariachi.com/wp-content/uploads/2021/06/portada_tsuki-ga-michibiku-5.jpg",
+      "disc": "La historia de fantasía se centra en Makoto Misumi, un chico ordinario de preparatoria que es enviado a un nuevo mundo como un valiente guerrero. Desafortunadamente, la diosa de ese nuevo mundo le dijo con desdén: “Qué feo eres”, lo despojó de su título y lo desterró a los confines más remotos del desierto. Mientras deambulaba por la zona, Makoto se encontró con dragones, arañas, orcos, enanos y todo tipo de criaturas fantásticas. Debido a las diferencias en el entorno de su mundo natal, Makoto ahora exhibe extraordinarios poderes mágicos y de combate. Por lo tanto sobrevive en este mundo mientras se enfrenta a varias amenazas. Se levanta así el telón de la fantasía de reforma social del mundo alterno, centrada en un joven abandonado por los dioses y por los humanos.",
+      "id": "2"
+    },
+    {
+      "categoria": "Isekai",
+      "title": "Saikyou Onmyouji no Isekai Tenseiki",
+      "video": "https://s1.secunduscdn.xyz/prime/SaikyouOnmyoujiNoIsekaiTenseiki/Saikyou%20Onmyouji%20no%20Isekai%20Tenseiki%20-%2001.mp4",
+      "img": "https://i1.wp.com/anixlife.net/wp-content/uploads/2023/01/Onmyouji-terkuat-Banner-scaled.jpg",
+      "disc": "Ser muy fuerte no te da la felicidad, aunque seas el exorcista más poderoso del mundo. Haruyoshi Kuga es un exorcista considerado un genio sin precedentes, pero la Corte Imperial lo traiciona y está al borde de la muerte. Decidido a ser feliz en su próxima vida, usa una técnica secreta de reencarnación que creó él mismo y reencarna en otro mundo. Al hacerlo recibe un nuevo nombre, Seika, y tiene una nueva vida. “En mi anterior vida me faltaba astucia, así que en esta voy a ser más calculador y seré feliz”. Con las más poderosas técnicas de exorcismo a su alcance y con poderoso demonios trabajando para él, ¿qué le aguardará en el futuro? ¿Conseguirá la vida pacífica que anhela o…? Este es el inicio de una historia nunca antes vista: la historia del exorcista más poderoso en un mundo de fantasía.",
+      "id": "3"
+    },
+    {
+      "title": "Iseleve",
+      "video": "https://s1.secunduscdn.xyz/prime/Iseleve/Isekai%20de%20Cheat%20Skill%20-%2001.mp4",
+      "categoria": "Isekai",
+      "img": "https://www.iseleve.com/img/ogp.jpg",
+      "disc": "Yuuya Tenjou ha sido un niño acosado desde el pasado. Vive en la casa de su querido abuelo mientras va a la escuela. Como es habitual, recibe un duro acoso, y se toma una larga ausencia de la escuela para tener algo de tiempo para curar sus heridas. Durante este largo tiempo de ausencia, aprovecha para limpiar la casa de su abuelo y va a una habitación a la que nunca había ido, donde su abuelo guardaba muchos objetos diferentes que recogía de sus viajes por el mundo. Mientras ordenaba los objetos, encuentra una puerta que no está en una pared entre los objetos. ",
+      "id": "4"
+    },
+    {
+      "title": "Dead Mount Death Play",
+      "video": "https://s1.secunduscdn.xyz/prime/DeadMountDeathPlay/Dead%20Mount%20Death%20Play%20-%2001.mp4",
+      "categoria": "Isekai",
+      "img": "https://theouterhaven.b-cdn.net/wp-content/uploads/2018/11/deadmount.jpg",
+      "disc": "El momento de un duelo de proporciones épicas: el héroe legendario contra el poderoso nigromante conocido como Dios de los Cadáveres. Cuando el combate llega a su fin, algo falla. Mientras, en otro mundo se despierta un niño llamado Polka Shinoyama. ¿Qué es ese mundo? ¿Qué ese cuerpo en el que está? Nadie podría haber esperado que tan épico duelo terminara de este modo.",
+      "id": "5"
+    },
+    {
+      "categoria": "Comedia",
+      "title": "Kaminaki Sekai no Kamisama Katsudou",
+      "video": "https://s1.secunduscdn.xyz/prime/KaminakiSekaiNoKamisamaKatsudou/Kaminaki%20Sekai%20No%20Kamisama%20Katsudou%20-%2001.mp4",
+      "img": "https://images.everyeye.it/img-notizie/kaminaki-sekai-kamisama-katsudou-adattamento-anime-ufficiale-v4-583745.jpg",
+      "disc": "Yukito nació como hijo del fundador de un culto que venera al misterioso dios Mitama, del que se dice que es omnisciente y omnipotente. Se ve obligado a participar en un ritual para convertirse en el próximo gurú de la organización y pierde la vida en un accidente durante la ceremonia. La siguiente vez que se despertó, estaba en un mundo extraño y diferente. Yukito se hace amigo de los habitantes de ese mundo y poco a poco se familiariza con su nueva vida. Sin embargo, en ese mundo existe un sistema llamado “Tiempo de Vida”, por el que la gente es obligada por el Estado Imperial a suicidarse al llegar a cierta edad, y los nuevos amigos de Yukito también están sujetos a este sistema.",
+      "id": "6"
+    },
+    {
+      "title": "Urusei Yatsura",
+      "video": "https://s1.secunduscdn.xyz/prime/UruseiYatsura/Urusei%20Yatsura%20(2022)%20-%2001.mp4",
+      "categoria": "Comedia",
+      "img": "https://i0.wp.com/www.animegeek.com/wp-content/uploads/2022/07/Urusei-Yatsura-Season-2-release-date-Lum-the-Invader-Girl-Season-2-All-Stars-in-2023.jpg?fit=780%2C439&ssl=1",
+      "disc": "No se nota mucho sobre el lujurioso Ataru Moroboshi, pero su extraordinaria mala suerte sobresale como los cuernos en la cabeza de un extraterrestre. Cuando la Tierra se ve amenazada por una flota de invasores alienígenas conocidos como Oni, Ataru es seleccionado para representar a la humanidad en un duelo contra uno de ellos. Es un golpe de suerte para Ataru que el duelo es de hecho un juego de atrapadas, y que su oponente es Lum, hija del líder de los Oni, quien coloca su dignidad personal por encima de la victoria cuando Ataru le retira la parte superior de su bikini por error y con ella, toma la victoria. Sin embargo, la desgracia vuelve a aparecer cuando Lum confunde la promesa de Ataru de casarse con su novia, Shinobu Miyake, como el deseo de casarse con Lum, y decide que le gusta la idea. Ejerciendo su influencia como princesa alienígena, ella se muda con él.",
+      "id": "7"
+    },
+    {
+      "title": "Kono Healer, Mendokusai",
+      "video": "https://s1.secunduscdn.xyz/prime/KonoHealerMendokusai/Kono%20Healer,%20Mendokusai%20-%2001.mp4",
+      "categoria": "Comedia",
+      "img": "https://somoskudasai.com/wp-content/uploads/2020/09/portada_kono-healer-mendokusai-1024x576.jpg",
+      "disc": "Una historia de aventuras donde dos peculiares personas acaban formando equipo: el espadachín inútil Arvin y la elfa oscura Karla, una sanadora bastante sarcástica con mejores dotes para dar a los demás donde duele con su sarcasmo que para sanarlos.",
+      "id": "8"
+    },
+    {
+      "title": "Meikyuu Black Company",
+      "video": "https://s1.secunduscdn.xyz/prime/MeikyuuBlackCompany/Meikyuu%20Black%20Company%20-%2001.mp4",
+      "categoria": "Comedia",
+      "img": "https://www.animeunited.com.br/wp-content/uploads/2020/06/The-Dungeon-of-Black-Company-manga-color-spread-cropped.jpg",
+      "disc": "Kinji es una persona que no cuenta con una pizca de ética o disciplina laboral, ya que las considera innecesarias e incluso molestas de considerar. Un día, descubre que ha sido transportado a otro mundo, pero no uno de fantasía en el que es recibido como el héroe que derrotará al Rey Demonio o cualquier otro de los clichés actuales de la industria, ¡sino uno en el que es esclavizado para realizar un horrible trabajo! Ahora siendo esclavo de una malévola compañía minera, Kinji aprenderá por las malas el significado del trabajo duro.",
+      "id": "9"
+    },
+    {
+      "categoria": "Comedia",
+      "title": "Boku no Hero Academia",
+      "video": "https://s1.secunduscdn.xyz/prime/Gokushufudou/The%20Way%20of%20the%20Househusband%20-%201.mp4",
+      "img": "https://www.otaquest.com/wp-content/uploads/2020/10/Gokushufudou-768x401.png",
+      "disc": "Tatsu12, un infame y temido líder yakuza apodado “El Dragón Inmortal”, se retira del sindicato del crimen y se convierte en un amo de casa para ayudar a su esposa Miku. La serie muestra una variedad de cómicos escenarios, típicamente protagonizados por las actividades domésticas de Tatsu y su disparidad con su apariencia intimidantes, así como los múltiples encuentros con sus antiguos colegas y rivales en el sindicato del crimen japonés.",
+      "id": "10"
+    },
+    {
+      "title": "Satsuriku no Tenshi",
+      "video": "https://s1.secunduscdn.xyz/prime/SatsurikuNoTenshi/Satsuriku%20No%20Tenshi%20-%2001%20[720p].mp4",
+      "categoria": "Terror",
+      "img": "https://image.tmdb.org/t/p/w780/pULVZQAxe7XbRnGtXN3fRq0EhqK.jpg",
+      "disc": "Rachel es una chica de 13 años que se despierta en el sótano de un edificio abandonada. No recuerda nada sobre quién es, ni sabe qué está haciendo allí, con lo que comienza a vagar por el edificio dando tumbos mientras intenta comprender qué sucede. Es entonces cuando se encuentra con un hombre cubierto de vendas que dice llamarse Zack y que porta una guadaña. Entre ambos se formará un extraño vínculo que se fortalecerá mediante una serie de igualmente extrañas promesas. ",
+      "id": "11"
+    },
+    {
+      "title": "Elfen Lied",
+      "video": "https://s1.secunduscdn.xyz/prime/ElfenLied/Elfen%20Lied%2001.mp4",
+      "categoria": "Terror",
+      "img": "https://wallpapercave.com/wp/gA1w61v.jpg",
+      "disc": "La historia se centra en Lucy, una declonius (una mutación del ser humano creada por los hombres, que se caracteriza por tener dos pequeños cuernos en la cabeza y dos brazos invisibles de dos metros) que consigue escapar del centro de investigación donde la tenían retenida junto a otros declonius para estudiarla, en la huida es alcanzada por un francotirador que la destruye el casco que protegía su cabeza dejándola inconsciente. Lucy es arrastrada por las olas hasta una playa donde es encontrada por Kouta y Yuca que la llevan a un viejo restaurante. Debido al disparo del francotirador Lucy ha perdido la memoria por completo y pasa de ser una sádica asesina a una inocente chica que solo sabe decir Nyu, por lo que Kouta y Yuca deciden llamarla así. Con el paso del tiempo Lucy irá recordando cosas del pasado.",
+      "id": "12"
+    },
+    {
+      "title": "Tenrou: Sirius the Jaeger",
+      "video": "https://s1.secunduscdn.xyz/prime/TenrouSirius/Sirius%20The%20Jaeger%20-%2001%20[720p].mp4",
+      "categoria": "Terror",
+      "img": "https://nosomosnonos.com/wp-content/uploads/2018/11/12.jpg",
+      "disc": "Capital Imperial, año 1930. Un extraño grupo de personas portando instrumentos musicales llega a la estación de Tokio. Son los “Jaegers”, y han llegado para dar caza a vampiros. Entre ellos hay un joven con una increíble serenidad y un aura diferente al resto: Yuliy, un joven hombre lobo cuyo pueblo natal fue destruido por los vampiros. Yuliy y los Jaegers se enzarzan en una mortal batalla por un misterioso arco sagrado conocido como “El arco de Sirius”. ¿Qué verdad les aguarda al final del camino?",
+      "id": "13"
+    },
+    {
+      "title": "Overlord",
+      "video": "https://s1.secunduscdn.xyz/prime/Overlord/[kaya]%20Overlord%20-%2001%20(bd%201080p%20X.265%20Aac)[4321cf48]-1.mp4",
+      "categoria": "Terror",
+      "img": "https://wallpapercave.com/wp/wp1976010.jpg",
+      "disc": "La historia da comienzo cuando Yggdrasil, un popular juego online, es cerrado un día sin previo aviso. Sin embargo, el protagonista, Momonga, decide no salir del juego. Momonga así se transforma y se convierte en “el mago más poderoso”. El mundo sigue cambiando con él dentro, y los NPCs comienzan a sentir emociones. Sin familia, amigos ni lugar en la sociedad, Momonga tendrá que luchar por adaptarse al nuevo mundo en el que se ha convertido el juego.",
+      "id": "14"
+    },
+    {
+      "title": "Berserk",
+      "video": "https://s1.secunduscdn.xyz/prime/Berserk2017/001-720.mp4",
+      "categoria": "Terror",
+      "img": "https://rare-gallery.com/uploads/posts/4508074-anime-berserk-guts-griffith-casca.jpg",
+      "disc": "Guts(o Gutts) es un guerrero que lleva una espada mas grande que él, tiene una fuerza inmensa pues puede blandirla con facilidad. Es un mercenario, al que solo le importa luchar. Un dia conoce a Griffith, un caballero líder de una banda conocida como La Banda del Halcón. Guts le reta y Griffith acepta a cambio de que si le vence, él se unirá a su banda. Guts es vencido y aunque no lo acepta termina por unirse a la banda. Poco a poco la banda de mercenarios va cogiendo fama al ganar importantes batallas, todo apunta a que el objetivo de Griffith de poseer su propio reino se hará realidad.",
+      "id": "15"
+    },
+    {
+      "title": "Blue Lock",
+      "video": "https://s1.secunduscdn.xyz/prime/BlueLock/Blue%20Lock%20-%2001.mp4",
+      "categoria": "Deportes",
+      "img": "https://img1.ak.crunchyroll.com/i/spire4/ac62694135d588f15256fe22e2fd451b1628762705_main.jpg",
+      "disc": "Tras una desastrosa derrota en la Copa Mundial de 2018, el equipo japonés está pasando por un mal momento. ¿Qué es lo que les falta? Un delantero que sea el mejor, alguien que pueda guiarles hasta la victoria. La federación japonesa está decidida a crear un jugador con una sed de gol única, alguien \"egoísta\" con el balón, un jugador que pueda ser capaz de dar la vuelta a un partido que está por perderse... Y para ello reúnen a 300 de las mejores jóvenes promesas de Japón. ¿Quién resultará el elegido como futuro líder del equipo? ¿Quién será capaz de plantar cara con su fuerza y su ego a cualquiera que se ponga en su camino? ¿Quién erá ese jugador más egoísta que nadie?",
+      "id": "3da1cea3-88e8-422f-b9c9-0723ecdb8b38"
+    }
+  ]
+}
